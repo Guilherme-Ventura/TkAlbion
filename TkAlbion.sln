@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TkAlbion", "TkAlbion.csproj", "{39A26E31-0F95-44B1-ACFA-B1A9479BB257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A26E31-0F95-44B1-ACFA-B1A9479BB257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A26E31-0F95-44B1-ACFA-B1A9479BB257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A26E31-0F95-44B1-ACFA-B1A9479BB257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A26E31-0F95-44B1-ACFA-B1A9479BB257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5105C4C4-5342-4CF3-BA0B-1E23CA6C44EF}
+	EndGlobalSection
+EndGlobal
